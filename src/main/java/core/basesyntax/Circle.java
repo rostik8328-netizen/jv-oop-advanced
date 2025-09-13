@@ -18,6 +18,5 @@ public class Circle extends Figure {
         System.out.println(
                 "Figure: Circle, area: " + getArea() + " sq. units, radius: " + radius
                 + " units, color: " + getColor());
-
     }
 }
